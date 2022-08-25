@@ -4,7 +4,7 @@
 * 이미지 기반 차량 종류 예측하는 프로젝트이고, 테스트 셋 기준 196가지 클래스에 대한 정확도 약 80% 이상 달성하는 것이 목표이다.
 
 ## 2. 데이터 셋
-[Cars Dataset][cars datasetlink]
+Link : [Cars Dataset][cars datasetlink]
 
 [cars datasetlink]: http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 * 원본 데이터 셋은 스탠포드 대학에서 공개한 데이터 셋이고, 쉽게 사용할 수 있도록 수정하였다.
