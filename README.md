@@ -28,12 +28,12 @@ Link : [Very Deep Convolutional Networks for Large-Scale Image Recognition][arxi
 
 [arxiv.org]: https://arxiv.org/abs/1409.1556
 
-[Deep Residual Learning for Image Recognition][cv-foundation.org]
+Link : [Deep Residual Learning for Image Recognition][cv-foundation.org]
 
 [cv-foundation.org]: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
 
 * GPU가 없는 경우 CPU로 학습해도 되지만, 무료 GPU인 Colab 활용하여 학습을 진행하였다.
 
-[How To Train Deep Learning Models In Google Colab][youtube.com]
+Link : [How To Train Deep Learning Models In Google Colab][youtube.com]
 
 [youtube.com]: https://www.youtube.com/watch?v=chQNuV9B-Rw
