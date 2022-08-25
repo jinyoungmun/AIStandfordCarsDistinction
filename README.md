@@ -24,11 +24,11 @@ Link: [Cars Dataset][cars datasetlink]
 
 * 모델 구조 같은 경우 ResNet18을 사용하였다.
 
-Link: [Very Deep Convolutional Networks for Large-Scale Image Recognition][arxiv.org]
+[Very Deep Convolutional Networks for Large-Scale Image Recognition][arxiv.org]
 
 [arxiv.org]: https://arxiv.org/abs/1409.1556
 
-Link: [Deep Residual Learning for Image Recognition][cv-foundation.org]
+[Deep Residual Learning for Image Recognition][cv-foundation.org]
 
 [cv-foundation.org]: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
 
