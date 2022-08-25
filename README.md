@@ -18,13 +18,13 @@
 ## 4. 참조
 * 학습 시 필요한 자료는 PyTorch Tutorial 등 확인하였다.
 
-[Transfer Learning for Computer Vision Tutorial][pytorch.org]
+Link : [Transfer Learning for Computer Vision Tutorial][pytorch.org]
 
 [pytorch.org]: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 * 모델 구조 같은 경우 ResNet18을 사용하였다.
 
-[Very Deep Convolutional Networks for Large-Scale Image Recognition][arxiv.org]
+Link : [Very Deep Convolutional Networks for Large-Scale Image Recognition][arxiv.org]
 
 [arxiv.org]: https://arxiv.org/abs/1409.1556
 
