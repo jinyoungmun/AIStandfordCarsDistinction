@@ -4,7 +4,7 @@
 * 이미지 기반 차량 종류 예측하는 프로젝트이고, 테스트 셋 기준 196가지 클래스에 대한 정확도 약 80% 이상 달성하는 것이 목표이다.
 
 ## 2. 데이터 셋
-Link: [Cars Dataset][cars datasetlink]
+[Cars Dataset][cars datasetlink]
 
 [cars datasetlink]: http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 * 원본 데이터 셋은 스탠포드 대학에서 공개한 데이터 셋이고, 쉽게 사용할 수 있도록 수정하였다.
@@ -34,6 +34,6 @@ Link: [Cars Dataset][cars datasetlink]
 
 * GPU가 없는 경우 CPU로 학습해도 되지만, 무료 GPU인 Colab 활용하여 학습을 진행하였다.
 
-Link: [How To Train Deep Learning Models In Google Colab][youtube.com]
+[How To Train Deep Learning Models In Google Colab][youtube.com]
 
 [youtube.com]: https://www.youtube.com/watch?v=chQNuV9B-Rw
