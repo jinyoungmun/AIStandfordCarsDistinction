@@ -18,7 +18,7 @@ Link: [Cars Dataset][cars datasetlink]
 ## 4. 참조
 * 학습 시 필요한 자료는 PyTorch Tutorial 등 확인하였다.
 
-Link: [Transfer Learning for Computer Vision Tutorial][pytorch.org]
+[Transfer Learning for Computer Vision Tutorial][pytorch.org]
 
 [pytorch.org]: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
